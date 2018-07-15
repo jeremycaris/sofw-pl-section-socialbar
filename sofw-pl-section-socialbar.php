@@ -9,7 +9,7 @@
   
   Author URI:   https://714web.com/
 
-  Version:     1.0
+  Version:     1.0.1
 
   PageLines:   PL_SOFW_Section_Socialbar
 
@@ -51,7 +51,7 @@ class PL_SOFW_Section_Socialbar extends PL_Section {
         $options[] =  array(
             'key'     => 'nopadding',
             'type'    => 'check',
-            'label'   => __( 'Full Width', 'pagelines' ),
+            'label'   => __( 'Full width', 'pagelines' ),
         );
     
         $options[] =  array(
