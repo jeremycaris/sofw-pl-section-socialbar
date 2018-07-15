@@ -1,0 +1,1 @@
+A Pagelines Platform 5 section for displaying social icon links.

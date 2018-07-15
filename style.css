@@ -1,0 +1,16 @@
+.sofw-socialbar-wrapper.nopadding {
+    max-width: 100% !important;
+}
+
+.sofw-socialbar-wrapper .socialbar-icons a {
+    color: inherit;
+    margin: 0 0.3em;
+}
+
+.sofw-socialbar-wrapper .socialbar-icons a:first-of-type {
+    margin-left: 0 !important;
+}
+
+.sofw-socialbar-wrapper .socialbar-icons a:last-of-type {
+    margin-right: 0 !important;
+}
