@@ -14,3 +14,93 @@
 .sofw-socialbar-wrapper .socialbar-icons a:last-of-type {
     margin-right: 0 !important;
 }
+
+
+// Brand colors
+.brandcolors .pl-icon-facebook {
+  color: #3B5998;
+}
+.brandcolors .pl-icon-google, .brandcolors .pl-icon-google-plus {
+  color: #E14107;
+}
+.brandcolors .pl-icon-instagram {
+  color: #517FA4;
+}
+.brandcolors .pl-icon-twitter {
+  color: #00ACED;
+}
+.brandcolors .pl-icon-youtube, .brandcolors .pl-icon-youtube-play {
+  color: #CD332D;
+}
+.brandcolors .pl-icon-pinterest, .brandcolors .pl-icon-pinterest-p {
+  color: #CB2027;
+}
+.brandcolors .pl-icon-linkedin {
+  color: #0181B2;
+}
+.brandcolors .pl-icon-rss {
+  color: #E5842F;
+}
+.brandcolors .pl-icon-tripadvisor {
+  color: #00af87;
+}
+.brandcolors .pl-icon-yelp {
+  color: #af0606;
+}
+.brandcolors .pl-icon-github {
+  color: #333333;
+}
+.brandcolors .pl-icon-amazon {
+  color: #ff9900;
+}
+.brandcolors .pl-icon-android {
+  color: #a4c639;
+}
+.brandcolors .pl-icon-apple {
+  color: #000000;
+}
+.brandcolors .pl-icon-codepen {
+  color: #0ebeff;
+}
+.brandcolors .pl-icon-behance {
+  color: #1769ff;
+}
+.brandcolors .pl-icon-deviantart {
+  color: #05cc47;
+}
+.brandcolors .pl-icon-dribbble {
+  color: #ea4c89;
+}
+.brandcolors .pl-icon-foursquare {
+  color: #f94877;
+}
+.brandcolors .pl-icon-skype {
+  color: #00aff0;
+}
+.brandcolors .pl-icon-snapchat, .brandcolors .pl-icon-snapchat-ghost {
+  color: #fffc00;
+}
+.brandcolors .pl-icon-soundcloud {
+  color: #ff8800;
+}
+.brandcolors .pl-icon-spotify {
+  color: #1db954;
+}
+.brandcolors .pl-icon-stack-overflow {
+  color: #f48024;
+}
+.brandcolors .pl-icon-tumblr {
+  color: #35465c;
+}
+.brandcolors .pl-icon-vimeo, .pl-icon-vimeo-v {
+  color: #1ab7ea;
+}
+.brandcolors .pl-icon-vine {
+  color: #00b488;
+}
+.brandcolors .pl-icon-whatsapp {
+  color: #25d366;
+}
+.brandcolors .pl-icon-vk {
+  color: #45668e;
+}

@@ -54,13 +54,21 @@ class PL_SOFW_Section_Socialbar extends PL_Section {
             'label'   => __( 'Full Width', 'pagelines' ),
         );
     
+        $options[] =  array(
+            'key'     => 'brandcolors',
+            'type'    => 'check',
+            'label'   => __( 'Use brand colors', 'pagelines' ),
+        );
+    
         return $options;
     }
     
     function section_template() {
         ?>
         <div class="sofw-socialbar-wrapper pl-content-area" data-bind="plclassname: [nopadding() == 1 ? 'nopadding' : '']">
-            <div class="socialbar-icons" data-bind="plicons: icons"></div>
+            <div data-bind="plclassname: [brandcolors() == 1 ? 'brandcolors' : '']">
+                <div class="socialbar-icons" data-bind="plicons: icons"></div>
+            </div>
         </div>
     <?php
   }
